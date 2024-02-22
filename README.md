@@ -1,1 +1,1 @@
-<img src= "vrinda store.png">
+<img src= "vrinda store image.png">
